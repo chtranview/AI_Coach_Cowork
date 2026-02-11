@@ -5,6 +5,8 @@
 
 [2026/2/2 initial]
 介紹利用AI IDE(VS Code/Cursor/Antigravity)透過AI Agent(或Plan)進行AI Codeing(或稱Vibe Coding)，從零到有建立一個真正的商業網站。
+[2026/2/11 update]
+更新【1】&【6】簡報。
 
 # 《課程內容有》：
 - 【1】AI Coding前置作業
